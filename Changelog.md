@@ -1,5 +1,8 @@
 ## Changelog
 
+## 1.0.2 2025-08-04 
+- allow usernames with '#' (hash) char
+
 ## 1.0.1 2024-07-23
 - version buildable with jitpack & downloadable from https://jitpack.io/#rspace-os/rspace-core-util
  

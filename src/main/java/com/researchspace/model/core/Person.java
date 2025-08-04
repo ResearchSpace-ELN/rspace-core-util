@@ -8,10 +8,10 @@ public interface Person {
 	/**
 	 * Core regex for allowed username characters
 	 */
-	String ALLOWED_USERNAME_CHARS = "A-Za-z0-9@\\.\\-";
+	String ALLOWED_USERNAME_CHARS = "A-Za-z0-9@#\\.\\-";
 	
 	/**
-	 * Core regex for allowed username characters for no length restriction
+	 * Core regex for allowed username without length restriction
 	 */
 	String ALLOWED_USERNAME_CHARS_RELAXED_SUBREGEX = "[" + ALLOWED_USERNAME_CHARS + "]{1,}";
 	
