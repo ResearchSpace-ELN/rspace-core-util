@@ -1,5 +1,8 @@
 ## Changelog
 
+## 1.0.3 2025-11-21
+- switch to parent-pom 2.0.2 (upgrades shiro dependency 1.9.0 -> 1.13.0) 
+
 ## 1.0.2 2025-08-04 
 - allow usernames with '#' (hash) char
 
